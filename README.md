@@ -1,6 +1,6 @@
-# 【国内在线免费】国内可用的 ChatGPT 免费中文版镜像网站整理-25年3月14日更新
+# 【国内在线免费】国内可用的 ChatGPT 免费中文版镜像网站整理-25年3月15日更新
 
-> 更新时间：2025/3/14
+> 更新时间：2025/3/15
 
 本站为您整理了国内可直接在线访问且免费的 ChatGPT 中文版镜像网站，方便您在无需翻墙的情况下体验 ChatGPT 的强大功能。以下网站均为免费的网页版，可满足国内用户对 ChatGPT、免费 ChatGPT、中文版 ChatGPT 的需求。
 
@@ -19,12 +19,12 @@ ChatGPT 镜像网站（ChatGPT Mirror）是指通过复制原始 ChatGPT 网站�
 ### 松鼠GPT [songshugpt.com](https://songshugpt.com)
 
 - **运营时间**：1年多
-- **支持功能**：GPT-4、GPT-4o，AI 绘画（MidJourney 和 DALL·E）
+- **支持功能**：GPT-4、GPT-4o、GPT-o3、deepseek、grok3，AI 绘画（MidJourney 和 DALL·E）
 - **特点**：稳定可靠，支持中文优化，操作简单。
 
 ### GPTDOG [gptdog.cc](https://gptdog.cc)
 
-- **支持功能**：GPT-4、GPT-4o
+- **支持功能**：GPT-4、GPT-4o、GPT-o3
 - **特点**：简洁便捷，适合快速体验。
 
 ## 为什么选择这些镜像网站？
